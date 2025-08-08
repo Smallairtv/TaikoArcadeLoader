@@ -8,7 +8,7 @@ It currently supports the following versions:
 * JPN 39.06
 * CHN 00.32 (based on JPN 32.09)
 
-**Attention**: As far as we know, game couldn't run on graphic card equals or lower than GTX 7xx series(GTX 7xx is not supported either), so if game crashes before it shows `avaliableRefreshRate`, that most likely means your graphic card is not supported!
+**Attention**: As far as we know, game couldn't run on graphic card equals or lower than GTX 7xx series(GTX 7xx is not supported either), so if game crashes before it shows `avaliableRefreshRate`, that most likely means your graphic card is not supported
 
 ## Setup
 
