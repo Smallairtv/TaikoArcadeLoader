@@ -17,6 +17,7 @@ If your game hangs on a black screen at launch for more than a minute, Start Tai
 
 ### config.toml
 
+
 ```toml
 [amauth]
 server = "127.0.0.1"
