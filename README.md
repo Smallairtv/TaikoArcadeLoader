@@ -138,4 +138,4 @@ cmake -B build -S . -G "Visual Studio 17 2022" -A x64 -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release --target bnusio
 ```
 
-The compiled dll of TaikoArcadeLoader will be written in the `dist` folder.
+The compiled dll of TaikoArcadeLoader will be written in the `dist` folder
